@@ -5,7 +5,7 @@ AIONOS Agentic AI Factory — Assignment 2.
 ## Run
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py / python -m streamlit run app.py
 ```
 
 The prototype is intentionally source-grounded: it uses only the supplied Veridian data pack. No external policy facts are introduced.
